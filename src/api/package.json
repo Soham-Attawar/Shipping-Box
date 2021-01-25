@@ -1,0 +1,21 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "hex-rgb": "^4.2.0",
+    "hexrgb": "0.0.2",
+    "mongoclient": "^1.0.3",
+    "mongodb": "^3.6.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
